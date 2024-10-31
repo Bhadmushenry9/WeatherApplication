@@ -12,8 +12,12 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WeatherApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/WeatherApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/api/WeatherAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/model/WeatherData.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/model/WeatherHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/ui/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/henry/weatherapp/ui/WeatherView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,11 @@
     "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\WeatherApp\src\resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="WeatherApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-22" />
